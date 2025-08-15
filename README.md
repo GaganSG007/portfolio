@@ -1,23 +1,28 @@
-# Printstream Portfolio — Gagan S G
+<p align="center">
+  <img src="./readme/printstream-banner.svg" alt="Printstream Portfolio — Animated Banner" />
+</p>
 
-A fully custom, Printstream-themed interactive portfolio website - built from scratch with pure HTML, CSS and JavaScript.  
-Minimal, fast and loaded with subtle animations to give a premium cyber-tech aesthetic while keeping content professional and accessible.
+# PRINTSTREAM_PORTFOLIO // GAGAN_S_G  ⌗⌗  HANDLE_WITH_CARE;
 
-## 🚀 Features
-- **Printstream aesthetic** with glitching, background text patterns and clean typography
-- **Lightweight** - built without heavy frameworks
-- **Responsive** - looks great on desktop, tablet and mobile
-- **Custom animations** - typewriter, glitch effects and subtle transitions
-- **Player Card** inspired by game UIs
-- **Optimized** - minified CSS, HTML, and obfuscated JS for performance
+++ fully custom printstream themed interactive portfolio  
+++ pure html css javascript  minimal and fast  
+++ subtle animations  glitch  typewriter  premium ui feel  
+++ responsive layouts  desktop tablet mobile
 
-## 🛠️ Tech Stack
-- HTML5
-- CSS3 (Flexbox, Grid, Animations)
-- Vanilla JavaScript
+▣▣▣  FEATURES
 
-## 📜 License
-This project is private and not licensed for redistribution or reuse.  
-All rights reserved © **Gagan S G**.
+XX printstream aesthetic with background symbol field and clean mono type  
+XX lightweight build with zero frameworks  
+XX interactive player card with premium tilt and shine  
+XX optimized for performance  minified css  html  obfuscated js
 
+▤▤  TECH_STACK
 
+⌗ html5  
+⌗ css3  flexbox  grid  keyframes  
+⌗ vanilla javascript
+
+SAFE  LICENSE
+
+██ project is private  not licensed for redistribution or reuse  
+██████ all rights reserved  © gagan s g

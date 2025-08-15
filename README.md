@@ -1,4 +1,4 @@
-# Printstream Portfolio — Gagan S G
+# Printstream Portfolio
 
 A fully custom, Printstream-themed interactive portfolio website - built from scratch with pure HTML, CSS and JavaScript.  
 Minimal, fast and loaded with subtle animations to give a premium cyber-tech aesthetic while keeping content professional and accessible.

@@ -1,28 +1,49 @@
-<p align="center">
-  <img src="./readme/printstream-banner.svg" alt="Printstream Portfolio — Animated Banner" />
-</p>
+<div align="center">
 
-# PRINTSTREAM_PORTFOLIO // GAGAN_S_G  ⌗⌗  HANDLE_WITH_CARE;
+# ⌗⌗  PRINTSTREAM_PORTFOLIO  ⌗⌗  
+HANDLE_WITH_CARE;  ◯  _precise_flick;  
 
+██████  GAGAN S G  ██████  
+
+</div>
+
+---
+
+▣▣▣  **OVERVIEW**  
 ++ fully custom printstream themed interactive portfolio  
 ++ pure html css javascript  minimal and fast  
 ++ subtle animations  glitch  typewriter  premium ui feel  
-++ responsive layouts  desktop tablet mobile
+++ responsive layouts  desktop tablet mobile  
 
-▣▣▣  FEATURES
+---
 
-XX printstream aesthetic with background symbol field and clean mono type  
-XX lightweight build with zero frameworks  
-XX interactive player card with premium tilt and shine  
-XX optimized for performance  minified css  html  obfuscated js
+▤▤  **FEATURES**  
 
-▤▤  TECH_STACK
+⇱⇲ printstream aesthetic with background symbol field and clean mono type  
+⇱⇲ lightweight build with zero frameworks  
+⇱⇲ interactive player card with premium tilt and shine  
+⇱⇲ optimized for performance  minified css  html  obfuscated js  
 
-⌗ html5  
-⌗ css3  flexbox  grid  keyframes  
-⌗ vanilla javascript
+---
 
-SAFE  LICENSE
+⌗⌗  **TECH STACK**  
+
+◯ html5  
+◯ css3  flexbox  grid  keyframes  
+◯ vanilla javascript  
+
+---
+
+SAFE  **LICENSE**  
 
 ██ project is private  not licensed for redistribution or reuse  
-██████ all rights reserved  © gagan s g
+██ all rights reserved  © gagan s g  
+
+---
+
+<div align="center">
+
+### B42;  XXO  +++  XX_XX  
+`<  steady_aim;  >`
+
+</div>

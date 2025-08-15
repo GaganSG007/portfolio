@@ -1,49 +1,22 @@
-<div align="center">
+# Printstream Portfolio — Gagan S G
 
-# ⌗⌗  PRINTSTREAM_PORTFOLIO  ⌗⌗  
-HANDLE_WITH_CARE;  ◯  _precise_flick;  
+A fully custom, Printstream-themed interactive portfolio website - built from scratch with pure HTML, CSS and JavaScript.  
+Minimal, fast and loaded with subtle animations to give a premium cyber-tech aesthetic while keeping content professional and accessible.
 
-██████  GAGAN S G  ██████  
+## 🚀 Features
+- **Printstream aesthetic** with glitching, background text patterns and clean typography
+- **Lightweight** - built without heavy frameworks
+- **Responsive** - looks great on desktop, tablet and mobile
+- **Custom animations** - typewriter, glitch effects and subtle transitions
+- **Player Card** inspired by game UIs
+- **Optimized** - minified CSS, HTML, and obfuscated JS for performance
 
-</div>
+## 🛠️ Tech Stack
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- Vanilla JavaScript
 
----
+## 📜 License
+This project is private and not licensed for redistribution or reuse.  
+All rights reserved © **Gagan S G**.
 
-▣▣▣  **OVERVIEW**  
-++ fully custom printstream themed interactive portfolio  
-++ pure html css javascript  minimal and fast  
-++ subtle animations  glitch  typewriter  premium ui feel  
-++ responsive layouts  desktop tablet mobile  
-
----
-
-▤▤  **FEATURES**  
-
-⇱⇲ printstream aesthetic with background symbol field and clean mono type  
-⇱⇲ lightweight build with zero frameworks  
-⇱⇲ interactive player card with premium tilt and shine  
-⇱⇲ optimized for performance  minified css  html  obfuscated js  
-
----
-
-⌗⌗  **TECH STACK**  
-
-◯ html5  
-◯ css3  flexbox  grid  keyframes  
-◯ vanilla javascript  
-
----
-
-SAFE  **LICENSE**  
-
-██ project is private  not licensed for redistribution or reuse  
-██ all rights reserved  © gagan s g  
-
----
-
-<div align="center">
-
-### B42;  XXO  +++  XX_XX  
-`<  steady_aim;  >`
-
-</div>
